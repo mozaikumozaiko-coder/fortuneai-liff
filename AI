@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>LIFF テスト</title>
+</head>
+<body style="font-family:sans-serif; padding:20px;">
+  <h1>公開できました</h1>
+  <p>ここが表示されれば、Endpoint URLは作れています。</p>
+</body>
+</html>
